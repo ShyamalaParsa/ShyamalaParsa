@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shyamala Parsa
-- 👀 I’m interested in Developing 
-- 🌱 I’m currently learning Angular7+ versions and MVC .NET
+- 👀 I’m interested in  Developing 
+- 🌱 I’m currently using Angular 7+ versions
 
 <!---
 ShyamalaParsa/ShyamalaParsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
